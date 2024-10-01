@@ -1,3 +1,5 @@
+#this is a bmi calculator
+
 user_input = str(input("Enter a Phrase: "))
 text = user_input.split()
 a = " "
